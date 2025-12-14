@@ -33,6 +33,7 @@ Backend: Node.js, Express.js
 Database: SQLite
 
 Others: Axios (for API calls), CORS, JSON
+
 5.SCREENSHOTS
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-14 124300" src="https://github.com/user-attachments/assets/98c58280-8d3d-4cb1-a7c5-951d89440156" />
