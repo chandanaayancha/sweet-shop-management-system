@@ -1,4 +1,4 @@
-1.PROJECT
+1.PROJECT 
 
 A full-stack application to manage inventory, orders, and customers for a sweet shop.
 
@@ -39,6 +39,9 @@ Others: Axios (for API calls), CORS, JSON
 <img width="1920" height="1080" alt="Screenshot 2025-12-14 124300" src="https://github.com/user-attachments/assets/98c58280-8d3d-4cb1-a7c5-951d89440156" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-14 124225" src="https://github.com/user-attachments/assets/076a4cad-795b-476c-a14d-025ede77f789" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-14 124245" src="https://github.com/user-attachments/assets/bd992058-acbf-4e79-a321-27dec86eb533" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-14 150031" src="https://github.com/user-attachments/assets/106aeb50-195b-497f-b6ec-78c4d7f9fd6b" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-14 150051" src="https://github.com/user-attachments/assets/b86d8dbf-8bbf-43f7-bb1d-a8df388d7c3f" />
+
 6.INSTALLATION 
 
 Show how someone can run it locally:
@@ -52,3 +55,23 @@ node server.js
 cd ../frontend
 npm install
 npm start
+7. USAGE 
+
+Explain how to use the project after running it:
+
+Open the app in the browser (http://localhost:3000)
+Register a new user account
+Add sweets, 
+browse inventory
+place orders
+
+8. FUTURE ENHANCEMENT
+
+
+Show that your project can grow:
+
+
+Add payment gateway integration
+Generate sales reports
+Implement admin and user roles
+Add email notifications for orders
