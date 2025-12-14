@@ -1,6 +1,7 @@
 1.PROJECT
 
 A full-stack application to manage inventory, orders, and customers for a sweet shop.
+
 2. PROJECT DESCRIPTION
 
 A brief but clear explanation:
@@ -9,6 +10,7 @@ You can also add why it’s useful:
 Helps track inventory automatically.
 Easy-to-use interface for shop owners.
 Real-time order and stock updates.
+
 3. FEATURES
 
 List your main features clearly:
