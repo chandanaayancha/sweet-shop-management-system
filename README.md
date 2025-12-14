@@ -25,9 +25,13 @@ Backend database with SQLite
 4. TECH STACKS
 
 Highlight the technologies you used:
+
 Frontend: React, HTML, CSS, JavaScript
+
 Backend: Node.js, Express.js
+
 Database: SQLite
+
 Others: Axios (for API calls), CORS, JSON
 5.SCREENSHOTS
 
